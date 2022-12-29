@@ -1,0 +1,26 @@
+background-color: rgb(168, 247, 132);
+font-family: 'Righteous', cursive;
+}
+
+h1 {
+margin: 15px auto;
+width: fit-content;
+font-weight: bold;
+border-bottom: 2px solid black;
+}
+
+.btn {
+display: flex;
+align-items: center;
+display: block;
+width: fit-content;
+margin: auto;
+}
+
+#libraryForm {
+border: 2px solid black;
+border-radius: 10px;
+background-color: #d3c6ae;
+padding: 25px;
+margin: 28px;
+}
